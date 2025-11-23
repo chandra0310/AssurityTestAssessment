@@ -54,6 +54,10 @@ The project uses:
 
 Dependencies are managed via Maven (pom.xml).
 
+## Clone the Repository
+To clone this project, run the following command. 
+git clone https://github.com/chandra0310/AssurityTestAssessment.git
+
 ## Running Tests
 
 ### Run Cucumber Tests
@@ -101,6 +105,7 @@ Maven will usually create directories automatically. If not, create: target/logs
 
 **Console Log**
 ![ScreenShot](ConsoleLog.png)
+
 
 
 
